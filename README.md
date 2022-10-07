@@ -1,6 +1,6 @@
 
 
-In install run:
+To install run:
 
 ### `npm install`
 
